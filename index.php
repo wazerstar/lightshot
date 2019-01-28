@@ -1,0 +1,1 @@
+<?php header("Location: http://prntscr.com/".$_GET['prnt']."/direct"); exit(); ?>
